@@ -7,4 +7,4 @@ talib
 statistics
 backtesting dot py
 
-We got a 1000% return on Google stock. Did we finally beat capitalism? God only knows
+God only knows if we're here in spirit
